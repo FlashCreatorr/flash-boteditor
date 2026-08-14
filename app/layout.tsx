@@ -15,19 +15,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Flex BotEditor – Manage Your Telegram Bot",
+  title: "Flash BotEditor – Manage Your Telegram Bot",
   description:
-    "Flex BotEditor lets you fetch and update your Telegram Bot's name, description, and short description instantly. Professional bot management made simple.",
+    "Flash BotEditor lets you fetch and update your Telegram Bot's name, description, and short description instantly. Professional bot management made simple.",
   keywords: [
     "Telegram Bot Editor",
     "Telegram Bot Manager",
     "Edit Telegram Bot",
     "Bot Token",
-    "Flex BotEditor",
+    "Flash BotEditor",
   ],
-  authors: [{ name: "Flex BotEditor" }],
-  creator: "Flex BotEditor",
-  publisher: "Flex BotEditor",
+  authors: [{ name: "Flash BotEditor" }],
+  creator: "Flash BotEditor",
+  publisher: "Flash BotEditor",
   robots: {
     index: true,
     follow: true,
@@ -36,9 +36,9 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://flex-boteditor.vercel.app",
-    siteName: "Flex BotEditor",
-    title: "Flex BotEditor – Manage Your Telegram Bot",
+    url: "https://Flash-boteditor.vercel.app",
+    siteName: "Flash BotEditor",
+    title: "Flash BotEditor – Manage Your Telegram Bot",
     description:
       "Fetch and update your Telegram Bot information instantly. Professional bot management made simple.",
     images: [
@@ -46,13 +46,13 @@ export const metadata: Metadata = {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Flex BotEditor",
+        alt: "Flash BotEditor",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Flex BotEditor – Manage Your Telegram Bot",
+    title: "Flash BotEditor – Manage Your Telegram Bot",
     description:
       "Fetch and update your Telegram Bot information instantly. Professional bot management made simple.",
     images: ["/og-image.png"],
