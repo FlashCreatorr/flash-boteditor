@@ -20,14 +20,14 @@ export default function Footer() {
           <div className="flex items-center gap-2 text-brand-muted text-sm">
             <span>Built with</span>
             <a
-              href="https://t.me/Prime_x_Samiul"
+              href="https://t.me/FL4SH_FF"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1 text-primary-600 hover:text-primary-700 font-medium transition-colors"
               aria-label="Developer Telegram"
             >
               <Send size={13} strokeWidth={2} />
-              <span>@Prime_x_Samiul</span>
+              <span>@FL4SH_FF</span>
             </a>
           </div>
         </div>

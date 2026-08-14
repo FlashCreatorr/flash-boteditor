@@ -45,7 +45,7 @@ export default function TokenForm({ onSearch, isLoading }: TokenFormProps) {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-brand-text tracking-tight mb-3"
         >
-          Flex BotEditor
+          Flash BotEditor
           <span className="text-primary-600">!</span>
         </motion.h1>
 

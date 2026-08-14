@@ -22,7 +22,7 @@ export default function Header() {
             <Send size={16} className="text-white" strokeWidth={2} />
           </div>
           <span className="text-base sm:text-lg font-bold text-brand-text tracking-tight">
-            Flex BotEditor
+            Flash BotEditor
             <span className="text-primary-600">!</span>
           </span>
         </motion.div>
