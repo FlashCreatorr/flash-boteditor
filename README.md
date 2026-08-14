@@ -1,4 +1,4 @@
-# Flex BotEditor!
+# Flash BotEditor!
 
 A production-ready web application to manage your Telegram Bot profile using the Telegram Bot API.
 
@@ -30,7 +30,7 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ## Deploy on Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-repo/flex-boteditor)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-repo/Flash-boteditor)
 
 ## Usage
 
