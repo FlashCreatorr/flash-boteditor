@@ -29,7 +29,7 @@ export default function Header() {
 
         {/* Developer button */}
         <motion.a
-          href="https://t.me/Prime_x_Samiul"
+          href="https://t.me/FL4SH_FF"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-shine relative overflow-hidden inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-primary-600 text-white text-sm font-semibold shadow-btn transition-all duration-200 hover:bg-primary-700 hover:shadow-btn-hover active:scale-95"
